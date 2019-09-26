@@ -1,4 +1,4 @@
-# EXCEPTION SECTION
+# News Analyser
 
 ## OVERVIEW
 ### This project focuses on collecting data from different newspapers from a particular region so that an analysis can be made and salient topics can be extracted. These topics can be used to show relevant information about the current trends of that region.
